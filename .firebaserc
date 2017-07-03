@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "afl-stack-launcher"
+  }
+}
